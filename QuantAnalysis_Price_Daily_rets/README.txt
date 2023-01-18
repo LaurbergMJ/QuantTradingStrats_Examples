@@ -1,0 +1,1 @@
+Walkthrough of the notebok from the video on youtube, found at: https://www.youtube.com/watch?v=PkzVU7Klic0

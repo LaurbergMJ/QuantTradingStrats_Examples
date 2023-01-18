@@ -1,0 +1,1 @@
+This notebook is a walkthrough of the video from Youtube, found at this link: https://www.youtube.com/watch?v=fqltiq5EahU
